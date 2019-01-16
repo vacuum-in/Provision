@@ -13,6 +13,9 @@
     },
     "sqlAuthenticationPassword": {
       "value": "securestring"
+    },
+    "envPrefixName": {
+      "value": "d3lab"
     }
   }
 }
